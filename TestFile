@@ -1,2 +1,18 @@
-Hello! :)
-Say more stuff
+Professor Oldmixon
+Pseudocode practice #1: Paycheck
+
+initialize hours variable
+initialize payrate variable
+initialize totalhours variable
+
+ask user for payrate
+
+loop 7 times
+ask user for hours worked for (loop number) day
+totalhours increase by that amount
+end loop
+
+print totalhours multiplied by payrate
+
+------------------
+
