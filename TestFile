@@ -25,3 +25,10 @@ Bla bla bla
 IN CLASS PRACTICE #3: Get an unknown amount of numbers from the user and add them together, print out the result.
 Make sure that the user can't enter letters.
 Bla Bla Bla
+
+IN CLASS PRACTICE #4: Have the user define a maximum whole number, print out a random number between 0 and their number.
+Allow the user to play again or quit. Error handling for letters.
+
+IN CLASS PRACITCE #5: Get a random number. If the number is even print “RIGHT”, if it’s odd, print “LEFT”. Do this ten times.
+Print out how many times it was “LEFT” and how many times it was “RIGHT”. Use modulus symbol to determine if a number is even
+or odd. Consider: What happens if our random number equals zero?
